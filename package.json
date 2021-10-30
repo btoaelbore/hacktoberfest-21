@@ -1,0 +1,25 @@
+{
+  "name": "hacktoberfest-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelbore/hacktoberfest-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelbore/hacktoberfest-21/issues"
+  },
+  "homepage": "https://github.com/aelbore/hacktoberfest-21#readme",
+  "devDependencies": {
+    "@qoi/build": "^0.0.15",
+    "@qoi/cli": "^0.0.17",
+    "@qoi/test": "^0.0.11"
+  }
+}
