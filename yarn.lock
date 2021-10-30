@@ -354,6 +354,11 @@ async@^2.6.2:
   dependencies:
     lodash "^4.17.14"
 
+atomicjs@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/atomicjs/-/atomicjs-4.4.1.tgz#e48d640911fa4a845ccc2e83f0c1971dab2a556e"
+  integrity sha512-SJ9wl96kAzlwGPKCqVaXYY7+Tcjj10XN293tGnE+qcxrjeBwsseNLTHKh7Px/qG3sFKGrzGpPdtmZQF4DZTcjQ==
+
 balanced-match@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"

@@ -20,6 +20,7 @@
   "devDependencies": {
     "@qoi/build": "^0.0.15",
     "@qoi/cli": "^0.0.17",
-    "@qoi/test": "^0.0.11"
+    "@qoi/test": "^0.0.11",
+    "atomicjs": "^4.4.1"
   }
 }
